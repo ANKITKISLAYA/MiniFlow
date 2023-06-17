@@ -5,7 +5,7 @@ This repository contains the MINIFLOW library, which is an implementation of a f
 
 ## Table of Contents
 
-- [MINIFLOW Library](./MiniFlow_Steps/miniflow.py): This Python module contains the MINIFLOW library, which provides the necessary classes and functions for building and training feedforward neural networks. The library includes components such as nodes, forward propagation, backpropagation, and gradient descent. It serves as a simplified version of TensorFlow and can be used to understand the inner workings of neural networks. 
+- [MINIFLOW Steps](./MiniFlow_Steps): This folder contains the steps for implementing MINIFLOW library, which provides the necessary classes and functions for building and training feedforward neural networks. The library includes components such as nodes, forward propagation, backpropagation, and gradient descent. It serves as a simplified version of TensorFlow and can be used to understand the inner workings of neural networks. 
 
 - [MiniFlow.ipynb](./MiniFlow_Steps/MiniFlow.ipynb): This Jupyter Notebook walks through the step-by-step implementation of the MINIFLOW library. It covers the construction of nodes, forward propagation, backpropagation, and gradient descent. The notebook provides detailed explanations and code snippets for each step. The PDF version of the notebook is also available for reference.
 
